@@ -1,0 +1,15 @@
+/Users/hyacinthannerelliquete/Projects/Book_Library/Book_Library/obj/Debug/net6.0/Book_Library.csproj.AssemblyReference.cache
+/Users/hyacinthannerelliquete/Projects/Book_Library/Book_Library/obj/Debug/net6.0/Book_Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hyacinthannerelliquete/Projects/Book_Library/Book_Library/obj/Debug/net6.0/Book_Library.AssemblyInfoInputs.cache
+/Users/hyacinthannerelliquete/Projects/Book_Library/Book_Library/obj/Debug/net6.0/Book_Library.AssemblyInfo.cs
+/Users/hyacinthannerelliquete/Projects/Book_Library/Book_Library/obj/Debug/net6.0/Book_Library.csproj.CoreCompileInputs.cache
+/Users/hyacinthannerelliquete/Projects/Book_Library/Book_Library/bin/Debug/net6.0/Book_Library
+/Users/hyacinthannerelliquete/Projects/Book_Library/Book_Library/bin/Debug/net6.0/Book_Library.deps.json
+/Users/hyacinthannerelliquete/Projects/Book_Library/Book_Library/bin/Debug/net6.0/Book_Library.runtimeconfig.json
+/Users/hyacinthannerelliquete/Projects/Book_Library/Book_Library/bin/Debug/net6.0/Book_Library.dll
+/Users/hyacinthannerelliquete/Projects/Book_Library/Book_Library/bin/Debug/net6.0/Book_Library.pdb
+/Users/hyacinthannerelliquete/Projects/Book_Library/Book_Library/obj/Debug/net6.0/Book_Library.dll
+/Users/hyacinthannerelliquete/Projects/Book_Library/Book_Library/obj/Debug/net6.0/refint/Book_Library.dll
+/Users/hyacinthannerelliquete/Projects/Book_Library/Book_Library/obj/Debug/net6.0/Book_Library.pdb
+/Users/hyacinthannerelliquete/Projects/Book_Library/Book_Library/obj/Debug/net6.0/Book_Library.genruntimeconfig.cache
+/Users/hyacinthannerelliquete/Projects/Book_Library/Book_Library/obj/Debug/net6.0/ref/Book_Library.dll
